@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bddc33bd.chunk.css",
+    "main.js": "/static/js/main.d39e0ea3.chunk.js",
+    "main.js.map": "/static/js/main.d39e0ea3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a3e2da45.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a3e2da45.js.map",
+    "static/js/2.204ad675.chunk.js": "/static/js/2.204ad675.chunk.js",
+    "static/js/2.204ad675.chunk.js.map": "/static/js/2.204ad675.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.bddc33bd.chunk.css.map": "/static/css/main.bddc33bd.chunk.css.map",
+    "static/js/2.204ad675.chunk.js.LICENSE.txt": "/static/js/2.204ad675.chunk.js.LICENSE.txt",
+    "static/media/aboutmephoto.60dd2f3b.png": "/static/media/aboutmephoto.60dd2f3b.png",
+    "static/media/amanda-mysbt.0c35c7e4.png": "/static/media/amanda-mysbt.0c35c7e4.png",
+    "static/media/main.min.css": "/static/media/idea.2c0445ca.svg",
+    "static/media/dialogflow.128f6f2c.png": "/static/media/dialogflow.128f6f2c.png",
+    "static/media/django.5d354f1e.png": "/static/media/django.5d354f1e.png",
+    "static/media/feedible.a2cb0efe.jpeg": "/static/media/feedible.a2cb0efe.jpeg",
+    "static/media/jabu.75f0bfb9.jpeg": "/static/media/jabu.75f0bfb9.jpeg",
+    "static/media/letstalk1.4fba4625.png": "/static/media/letstalk1.4fba4625.png",
+    "static/media/letstalk2.bdb55059.png": "/static/media/letstalk2.bdb55059.png",
+    "static/media/letstalk3.2a6e4821.png": "/static/media/letstalk3.2a6e4821.png",
+    "static/media/letstalk4.04350eaa.png": "/static/media/letstalk4.04350eaa.png",
+    "static/media/mern.432866a9.png": "/static/media/mern.432866a9.png",
+    "static/media/meta-image.c2fa6c71.png": "/static/media/meta-image.c2fa6c71.png",
+    "static/media/michael-peter.019b0d77.png": "/static/media/michael-peter.019b0d77.png",
+    "static/media/michael-peter.e9f44135.jpg": "/static/media/michael-peter.e9f44135.jpg",
+    "static/media/mySBT.0bdcc598.png": "/static/media/mySBT.0bdcc598.png",
+    "static/media/snatchbot.c61ecc38.png": "/static/media/snatchbot.c61ecc38.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3e2da45.js",
+    "static/js/2.204ad675.chunk.js",
+    "static/css/main.bddc33bd.chunk.css",
+    "static/js/main.d39e0ea3.chunk.js"
+  ]
+}
